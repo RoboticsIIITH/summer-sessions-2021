@@ -15,3 +15,5 @@ All the sessions will be held from 10:00 AM to 11:55 AM unless specified otherwi
 [Assignment schedule](https://www.notion.so/959c6d139b8a42abb54bea6e7442b3f1)
 
 ### Contact information
+Rahul Sajnani - [rahul.sajnani@research.iiit.ac.in](mailto:rahul.sajnani@research.iiit.ac.in)
+AadilMehdi Sanchawala - [aadilmehdi.s@students.iiit.ac.in](mailto:aadilmehdi.s@students.iiit.ac.in)

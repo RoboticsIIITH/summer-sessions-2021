@@ -4,7 +4,7 @@ Robotics Research Center Summer Session 2021 Notion page.
 
 ### Timing
 
-All the sessions will be held from 10:00 AM to 11:55 AM unless specified otherwise. Lecturers are encouraged to schedule a 10 minute break during their sessions.
+All the sessions will be held from 11:00 AM to 12:55 PM unless specified otherwise. Lecturers are encouraged to schedule a 10 minute break during their sessions.
 
 ### Schedule
 

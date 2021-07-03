@@ -1,6 +1,6 @@
 # Robotics Research Center Summer Sessions - 2021
 
-Robotics Research Center Summer Session 2021 Notion page. 
+Robotics Research Center Summer Session 2021 [Notion page](https://www.notion.so/Robotics-Research-Center-Summer-Sessions-2021-da2210bce3994d64b72c5f545ce0472a). 
 
 ### GitHub repository
 
